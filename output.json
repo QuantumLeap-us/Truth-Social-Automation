@@ -1,0 +1,20 @@
+[
+    {
+        "username": "rivYps7u_72",
+        "email": "sy4nrlm2a8@gmail.com",
+        "fingerprint": {
+            "user_agent": "Mozilla/5.0 (Windows 95; the-NP; rv:1.9.0.20) Gecko/2433-09-19 12:42:32 Firefox/3.6.16",
+            "device_id": "b524f26f-8769-4bc2-b293-f90f77987874",
+            "screen_resolution": "414x896",
+            "operating_system": "Windows",
+            "browser": "safari",
+            "browser_version": "102.0.8018.55",
+            "languages": [
+                "en-US",
+                "en"
+            ],
+            "timezone_offset": -480
+        },
+        "registration_proxy": "142.171.88.172"
+    }
+]
