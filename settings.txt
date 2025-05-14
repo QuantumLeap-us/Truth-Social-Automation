@@ -1,0 +1,3 @@
+Total Browsers:20
+Total Likes:200
+Use Proxies(yes/no):yes
