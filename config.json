@@ -1,0 +1,7 @@
+{
+    "sms_api": "XXXXXXXXXX",
+    "output_file": "output.json",
+    "password": "XXXXXXXX",
+    "proxy": "http://XXXXXXXXXX",
+    "country_codes": ["GB"]
+}
